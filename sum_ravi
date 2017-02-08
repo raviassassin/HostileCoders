@@ -1,0 +1,11 @@
+#include<stdio.h>
+
+int main()
+{
+    int a=3,b=4,c=6,d;
+ printf("add three no.s");
+     
+ d=a+b+c;
+ printf("%d",d);
+    return 0;
+}
